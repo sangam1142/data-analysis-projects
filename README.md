@@ -29,10 +29,6 @@ This repository contains multiple data analytics projects focused on extracting 
 
 ## Projects Included
 
-### 1. Loan Default Risk Analysis
-- Analyzed loan applicant data
-- Identified high-risk customer segments
-- Performed risk analysis and visualization
 
 ### 2. Sales Data Analysis Dashboard
 - Analyzed sales performance and revenue trends
