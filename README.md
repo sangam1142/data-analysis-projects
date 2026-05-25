@@ -1,28 +1,50 @@
 # Data Analysis Projects
 
-This repository contains Python-based data analysis projects created for learning and practice purposes.
+## Overview
+This repository contains multiple data analytics projects focused on extracting business insights using Python, SQL, Excel, and Power BI.
 
-## Projects Included
+---
 
-### 1. Student Result Analysis
-- Analyzed student academic performance using Python
-- Calculated total marks, averages, and pass/fail status
-- Identified topper and subject-wise performance
-- Visualized results using Matplotlib
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- KPI Development
+- Dashboard Creation
+- Data Visualization
+- SQL Queries
 
-### 2. Sales Data Analysis
-- Analyzed sales data to identify monthly trends
-- Performed category-wise sales analysis
-- Visualized sales performance using line and bar charts
+---
 
 ## Tools & Technologies
 - Python
 - Pandas
+- NumPy
 - Matplotlib
-- CSV datasets
-
-## Purpose
-These projects demonstrate basic data cleaning, analysis, and visualization skills using Python.
+- Seaborn
+- SQL
+- Power BI
+- Excel
 
 ---
-📌 Created by **Sangam Patel**
+
+## Projects Included
+
+### 1. Loan Default Risk Analysis
+- Analyzed loan applicant data
+- Identified high-risk customer segments
+- Performed risk analysis and visualization
+
+### 2. Sales Data Analysis Dashboard
+- Analyzed sales performance and revenue trends
+- Developed KPI metrics and dashboards
+- Identified top-performing categories
+
+### 3. Student Result Analysis System
+- Processed student performance data
+- Calculated pass percentage and average marks
+- Visualized academic trends
+
+---
+
+## Author
+Sangam Patel
